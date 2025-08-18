@@ -39,7 +39,7 @@ Install missing libraries required for running the project (if any).
     cargo build
     
 ### Step 4: Run the application
-Run the application from the command-line. For quitting the application, type "4" and press Enter.
+Run the application from the command-line.
 
 ## Usage
     

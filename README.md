@@ -1,4 +1,4 @@
-# median_and_mode_rust
+# median_and_mode
 
 This repo contains code for calculating the median and the mode of a sequence of integers.
 
